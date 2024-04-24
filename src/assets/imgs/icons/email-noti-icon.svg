@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_17053" data-name="Rectangle 17053" width="32" height="32" transform="translate(972 151)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_15" data-name="Mask Group 15" transform="translate(-972 -151)" clip-path="url(#clip-path)">
+    <g id="Compose_email" transform="translate(971.791 151.015)">
+      <g id="Page-1">
+        <g id="Compose_email-2" data-name="Compose_email">
+          <path id="Shape" d="M14.719.34a1.039,1.039,0,0,0-1.386,0C10.98,2.3.235,11.294.235,11.294V27.085a.692.692,0,0,0,.68.68H27.163a.692.692,0,0,0,.68-.68V11.294C27.477,10.98,14.588.209,14.719.34Z" fill="#e54d45"/>
+          <g id="Group" transform="translate(3.922 3.137)">
+            <path id="Shape-2" data-name="Shape" d="M18.484.235a1.64,1.64,0,0,1,1.647,1.647v8.654L9.8,16.706.1,10.614V1.882A1.64,1.64,0,0,1,1.752.235Z" fill="#dfecfd"/>
+            <path id="Shape-3" data-name="Shape" d="M16.549,4.627H3.19a.392.392,0,1,1,0-.784H16.549a.4.4,0,0,1,.392.392A.385.385,0,0,1,16.549,4.627Z" fill="#e04038"/>
+            <path id="Shape-4" data-name="Shape" d="M10.771,8.183H3.19a.392.392,0,0,1,0-.784h7.582a.392.392,0,1,1,0,.784Z" fill="#e04038"/>
+          </g>
+          <path id="Shape-5" data-name="Shape" d="M27.817,11.294v15.9a.63.63,0,0,1-.418.6.763.763,0,0,1-.235.052H.863a.647.647,0,0,1-.654-.654V11.32l11.529,7.216a3.658,3.658,0,0,0,3.791.052l12.288-7.294Z" fill="#e04038"/>
+          <path id="Shape-6" data-name="Shape" d="M27.294,20.627v7.111a.763.763,0,0,1-.235.052H19.085a5.7,5.7,0,0,1-.235-1.647,6.014,6.014,0,0,1,6.013-6.013A5.7,5.7,0,0,1,27.294,20.627Z" fill="#e54d45"/>
+          <path id="Shape-7" data-name="Shape" d="M21.176,29.176A6.006,6.006,0,1,1,26.2,31.9a6.042,6.042,0,0,1-5.02-2.719" fill="#21d3ac"/>
+          <path id="Shape-8" data-name="Shape" d="M29.2,25.464l-1.778-1.778a.573.573,0,1,0-.81.81l.81.81H23.582a.575.575,0,1,0,0,1.15h3.843l-.81.81a.6.6,0,0,0,0,.81.576.576,0,0,0,.392.157.532.532,0,0,0,.392-.157L29.176,26.3a.576.576,0,0,0,.157-.392.684.684,0,0,0-.131-.444Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

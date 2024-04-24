@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_18716" data-name="Group 18716" transform="translate(-1117 -21.275)">
+    <g id="Rectangle_17052" data-name="Rectangle 17052" transform="translate(1117 21.275)" fill="#fff" stroke="#cfd4d8" stroke-width="1">
+      <rect width="32" height="32" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="31" height="31" rx="3.5" fill="none"/>
+    </g>
+    <g id="info-circle" transform="translate(1117 21.275)">
+      <g id="Group_18721" data-name="Group 18721" transform="translate(8 8)">
+        <path id="Path_137" data-name="Path 137" d="M16,9.032A6.968,6.968,0,1,1,9.032,16,6.969,6.969,0,0,1,16,9.032M16,8a8,8,0,1,0,8,8A8,8,0,0,0,16,8ZM14.839,19.1h.387V15.226h-.387a.387.387,0,0,1-.387-.387v-.258a.387.387,0,0,1,.387-.387h1.548a.387.387,0,0,1,.387.387V19.1h.387a.387.387,0,0,1,.387.387v.258a.387.387,0,0,1-.387.387H14.839a.387.387,0,0,1-.387-.387v-.258A.387.387,0,0,1,14.839,19.1ZM16,11.355a1.032,1.032,0,1,0,1.032,1.032A1.032,1.032,0,0,0,16,11.355Z" transform="translate(-8 -8)" fill="#666"/>
+      </g>
+    </g>
+  </g>
+</svg>
